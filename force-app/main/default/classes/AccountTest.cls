@@ -1,5 +1,6 @@
 public with sharing class AccountTest {
     public AccountTest() {
-        System.debug('hi');
+        System.debug('hifhsafsdfj;');
+        System.debug('Hello')
     }
 }
